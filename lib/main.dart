@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           appBar: null,
     body: SafeArea(
       child: WebView(
-    initialUrl: 'https://google.com', // Replace with your website URL
+    initialUrl: 'https://pub.dev/packages/webview_flutter/install', // Replace with your website URL
     javascriptMode: JavascriptMode.unrestricted, // Enable JavaScript
     ),
     ),
